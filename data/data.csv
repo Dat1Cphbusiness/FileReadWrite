@@ -1,0 +1,5 @@
+country,capital,EUmember
+France, Paris,        true
+UK, London, false
+Germany, Berlin, true
+Denmark, Copenhagen, true
